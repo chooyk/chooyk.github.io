@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-![](.\images\README\2025-01-09 172238.png)
+![](.\images\2025-01-09 172238.png)
 
 # GitHub Pages
 
