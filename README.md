@@ -1,8 +1,7 @@
-![](C:\GitHub\chooyk.github.io\images\2025-01-09 172238.png)
-
 <header>
+    01:30
 
-​    
+![](C:\GitHub\chooyk.github.io\images\2025-01-09 172238.png)
 
 <!--
   <<< Author notes: Course header >>>
