@@ -1,4 +1,5 @@
 <header> TEST
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -6,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-![](C:\GitHub\chooyk.github.io\images\README\스크린샷 2025-01-09 172238.png)
+![](C:\GitHub\chooyk.github.io\images\README\2025-01-09 172238.png)
 
 # GitHub Pages
 
