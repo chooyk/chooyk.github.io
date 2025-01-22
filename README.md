@@ -1,4 +1,8 @@
-<header>TEST
+![](C:\GitHub\chooyk.github.io\images\2025-01-09 172238.png)
+
+<header>
+
+​    
 
 <!--
   <<< Author notes: Course header >>>
@@ -6,8 +10,6 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
-![](.\images\2025-01-09 172238.png)
 
 # GitHub Pages
 
