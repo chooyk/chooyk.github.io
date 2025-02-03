@@ -14,10 +14,6 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
-
-
-
-
 <!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
