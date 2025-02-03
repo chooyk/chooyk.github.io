@@ -8,6 +8,12 @@
 -->
 <img src=".\images\2025-01-09 172238.png" style="zoom:75%;" />
 
+# GitHub Pages
+
+_Create a site or blog from your GitHub repositories with GitHub Pages._
+
+</header>
+
 2025.01.09 13:35 Add Image
 2025.01.09 13:39 Change ".\images\2025-01-09 172238.png"
 2025.01.09 14:08 Edit by VS Code
@@ -19,11 +25,6 @@ chooyk.github.io
    . github Desktop를 실행하면 상단 메뉴에 push orign 이 표시된다. 클릭하면 fetch가 된다.
    . 새로고침 하면 적용된 것을 볼 수 있다 (chooyk.github.io)
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
 
 <!--
   <<< Author notes: Step 2 >>>
