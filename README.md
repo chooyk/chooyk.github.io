@@ -27,6 +27,8 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 2: Configure your site
 
+_You turned on GitHub Pages! :tada:_
+
 2025.01.09 13:35 Add Image
 2025.01.09 13:39 Change ".\images\2025-01-09 172238.png"
 2025.01.09 14:08 Edit by VS Code
@@ -37,8 +39,6 @@ chooyk.github.io
    . 소스를 수정하고 저장하면 VSCcode화면 좌측에 커밋이 체크된다. 커밋용 메세지를 넣고 커밋을 클릭한다.
    . github Desktop를 실행하면 상단 메뉴에 push orign 이 표시된다. 클릭하면 fetch가 된다.
    . 새로고침 하면 적용된 것을 볼 수 있다 (chooyk.github.io)
-
-_You turned on GitHub Pages! :tada:_
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
