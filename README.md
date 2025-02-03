@@ -7,9 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-13:35 Add Image </br>
-13:39 Change ".\images\2025-01-09 172238.png" </br>
-14:08 Edit by VS Code
+2025.01.09 13:35 Add Image
+2025.01.09 13:39 Change ".\images\2025-01-09 172238.png"
+2025.01.09 14:08 Edit by VS Code
+2025.02.03 09:42 github는 .md 를 사용한다.
 
 <img src=".\images\2025-01-09 172238.png" style="zoom:75%;" />
 
