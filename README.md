@@ -24,6 +24,7 @@ chooyk.github.io
    . 소스를 수정하고 저장하면 VSCcode화면 좌측에 커밋이 체크된다. 커밋용 메세지를 넣고 커밋을 클릭한다.
    . github Desktop를 실행하면 상단 메뉴에 push orign 이 표시된다. 클릭하면 fetch가 된다.
    . 새로고침 하면 적용된 것을 볼 수 있다 (chooyk.github.io)
+   
 
 
 <!--
