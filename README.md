@@ -6,13 +6,18 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+<img src=".\images\2025-01-09 172238.png" style="zoom:75%;" />
 
 2025.01.09 13:35 Add Image
 2025.01.09 13:39 Change ".\images\2025-01-09 172238.png"
 2025.01.09 14:08 Edit by VS Code
 2025.02.03 09:42 github는 .md 를 사용한다.
-
-<img src=".\images\2025-01-09 172238.png" style="zoom:75%;" />
+chooyk.github.io
+- 소스코드는 로컬에 내려받은 후 (C:\GitHub\chooyk.github.io) 편집한다.
+   . 소소코드 수정은 VSCode(Visual Studio Code, 소스 편집툴)를 사용(특별히 정해진것은 아님)
+   . 소스를 수정하고 저장하면 VSCcode화면 좌측에 커밋이 체크된다. 커밋용 메세지를 넣고 커밋을 클릭한다.
+   . github Desktop을 이용하여 fetch 하면
+   . 적용된다. (새로고침 하면 적용된 것을 볼 수 있다)
 
 # GitHub Pages
 
